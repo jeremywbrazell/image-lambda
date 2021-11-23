@@ -1,0 +1,25 @@
+{
+  "name": "image-lambda",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jeremywbrazell/image-lambda.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jeremywbrazell/image-lambda/issues"
+  },
+  "homepage": "https://github.com/jeremywbrazell/image-lambda#readme",
+  "dependencies": {
+    "async": "^3.2.2",
+    "aws-sdk": "^2.1033.0",
+    "util": "^0.12.4"
+  }
+}
